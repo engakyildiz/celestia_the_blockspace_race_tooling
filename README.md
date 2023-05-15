@@ -25,3 +25,18 @@ Install the psutil library using pip:
 Clone the repository:
 
 `git clone https://github.com/engakyildiz/celestia_the_blockspace_race_tooling.git`
+
+## Install and Usage
+
+Change to the path:
+
+`cd celestia_the_blockspace_race_tooling/`
+
+Run the bellow command:
+
+`python3 celestia_the_blockspace_race_tooling.py`
+
+After running the above command, you can see the statistics of CPU usage, Memory usage, Disk usage, Remaining Disk Space and the size of the /data folder every 60 seconds.
+
+
+
