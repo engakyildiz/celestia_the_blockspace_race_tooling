@@ -29,4 +29,4 @@ def print_node_performance():
 
 while True:
     print_node_performance()
-    time.sleep(5)
+    time.sleep(60)
